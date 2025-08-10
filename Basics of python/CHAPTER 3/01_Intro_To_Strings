@@ -1,0 +1,9 @@
+a = 'Hello World'               #Single quoted string 
+b = "Welcome to WP CoE"         #Double quoted string
+C = '''SUPER 30 EVENT           #Triple quoted string
+    BY SARVĀRTH SOLAPUR
+    ON 27th JUNE 2025
+    '''
+name = "Harry"
+nameshort = name[0:3] # start from index 0 all the way till 3 excluding 3
+
